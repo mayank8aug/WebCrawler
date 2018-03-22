@@ -1,0 +1,5 @@
+{
+  "initialURL": "",
+  "maxPagesToVisit": 50,
+  "outputFilePath": "VisitedUrlLinks.txt"
+}
